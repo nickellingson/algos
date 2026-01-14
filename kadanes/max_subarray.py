@@ -40,3 +40,4 @@ def kadanes_max_subarray_simple(lst):
 lst = [2,-3,4,-2,2,1,-1,4]
 print(brute_max_subarray(lst))
 print(kadanes_max_subarray(lst))
+print(kadanes_max_subarray_simple(lst))
